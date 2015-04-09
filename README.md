@@ -1,5 +1,5 @@
 ## NoMobileData
-   ============
+
 Android Application which will turn off the network data connection every time it tries to connect.
 
 ## Usage 
